@@ -1,0 +1,112 @@
+/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74
+                throw new TypeError('Invalid pathname');
+                ^
+
+TypeError: Invalid pathname
+    at RedisClient.parseURL (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74:23)
+    at Commander._RedisClient_initiateOptions (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:355:27)
+    at new RedisClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:168:148)
+    at new Commander (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/commander.js:44:13)
+    at create (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:47:16)
+    at Object.createClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/redis/dist/index.js:38:38)
+    at Object.<anonymous> (/home/jtalabco/api/src/config/redisClient.js:5:22)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+
+Node.js v20.10.0
+/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74
+                throw new TypeError('Invalid pathname');
+                ^
+
+TypeError: Invalid pathname
+    at RedisClient.parseURL (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74:23)
+    at Commander._RedisClient_initiateOptions (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:355:27)
+    at new RedisClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:168:148)
+    at new Commander (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/commander.js:44:13)
+    at create (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:47:16)
+    at Object.createClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/redis/dist/index.js:38:38)
+    at Object.<anonymous> (/home/jtalabco/api/src/config/redisClient.js:5:22)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+
+Node.js v20.10.0
+/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74
+                throw new TypeError('Invalid pathname');
+                ^
+
+TypeError: Invalid pathname
+    at RedisClient.parseURL (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74:23)
+    at Commander._RedisClient_initiateOptions (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:355:27)
+    at new RedisClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:168:148)
+    at new Commander (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/commander.js:44:13)
+    at create (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:47:16)
+    at Object.createClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/redis/dist/index.js:38:38)
+    at Object.<anonymous> (/home/jtalabco/api/src/config/redisClient.js:5:22)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+
+Node.js v20.10.0
+/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74
+                throw new TypeError('Invalid pathname');
+                ^
+
+TypeError: Invalid pathname
+    at RedisClient.parseURL (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74:23)
+    at Commander._RedisClient_initiateOptions (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:355:27)
+    at new RedisClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:168:148)
+    at new Commander (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/commander.js:44:13)
+    at create (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:47:16)
+    at Object.createClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/redis/dist/index.js:38:38)
+    at Object.<anonymous> (/home/jtalabco/api/src/config/redisClient.js:5:22)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+
+Node.js v20.10.0
+/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74
+                throw new TypeError('Invalid pathname');
+                ^
+
+TypeError: Invalid pathname
+    at RedisClient.parseURL (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:74:23)
+    at Commander._RedisClient_initiateOptions (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:355:27)
+    at new RedisClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:168:148)
+    at new Commander (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/commander.js:44:13)
+    at create (/home/jtalabco/nodevenv/api/20/lib/node_modules/@redis/client/dist/lib/client/index.js:47:16)
+    at Object.createClient (/home/jtalabco/nodevenv/api/20/lib/node_modules/redis/dist/index.js:38:38)
+    at Object.<anonymous> (/home/jtalabco/api/src/config/redisClient.js:5:22)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+
+Node.js v20.10.0
+/home/jtalabco/api/src/controllers/orderController.js:15
+            logger.error(e);
+            ^
+
+ReferenceError: logger is not defined
+    at register (/home/jtalabco/api/src/controllers/orderController.js:15:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v20.10.0
+/home/jtalabco/api/src/controllers/orderController.js:15
+            logger.error(e);
+            ^
+
+ReferenceError: logger is not defined
+    at register (/home/jtalabco/api/src/controllers/orderController.js:15:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v20.10.0
+/home/jtalabco/api/src/controllers/orderController.js:15
+            logger.error(e);
+            ^
+
+ReferenceError: logger is not defined
+    at register (/home/jtalabco/api/src/controllers/orderController.js:15:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v20.10.0
